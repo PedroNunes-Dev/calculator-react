@@ -1,3 +1,26 @@
+## 🔢 Project Calculator 
+
+<div>
+    <img src="./public/screenshot-calculadora.png" />
+</div><br>
+
+<div>
+    <h3>
+        Project created during the course of React, ministered by Leonardo Moura Leitao of Curso Web Moderno.
+    </h3>
+    <h3>
+        As a layout base was used an existing calculator model on Mac.
+    </h3>
+</div><br>
+
+## ✅ tecnologies used
+
+<div>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
